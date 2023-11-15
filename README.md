@@ -1,5 +1,5 @@
 # Bike-sharing MLR
-> This projects predicts the significant varaiables which improves demand for shared bikes through
+> This project predicts the significant varaiables which improves demand for shared bikes through
 > Multiple Linear Regression Model
 
 
@@ -12,9 +12,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Accessing 2018 and 2019 bike sharing data and predicts the significant variables which improves the demand of bike
-- sharing.
-
+- Accessing 2018 and 2019 bike sharing data and predicts the significant variables which improves the demand of bike sharing.
+- This project finds out the positive and neagative correlated features of bike sharing.
+- Feature variables are selected by using Recursive Feature selection method.
+- sklearn and statsmodels library used through out the model building.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
@@ -37,15 +38,8 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@dprakashraj] - feel free to contact me!
 
 
 <!-- Optional -->
